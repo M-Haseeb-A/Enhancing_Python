@@ -1,3 +1,5 @@
+# this program will generate a random password for you
+
 import random
 
 letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
